@@ -1,6 +1,6 @@
 # The-Enigma </br>
 ## Encryption and Decryption app for android </br>
-This project used DES encryption </br>
+This project uses DES encryption </br>
 download the android studio from https://developer.android.com/studio </br>
 create a new project </br>
 select JAVA from the given two oprions kotlin and java </br>
